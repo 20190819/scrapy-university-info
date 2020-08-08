@@ -15,3 +15,5 @@
 
 ### 存储形式：
 * 文本: universities.json
+* EXCEL: 全国高校信息.xlsx
+
